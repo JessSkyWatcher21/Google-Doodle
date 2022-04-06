@@ -1,0 +1,33 @@
+/* My Awesome Styles */
+
+/* Diagnostic Styling 
+  * Change Background Color
+  * Outline Elements
+*/
+
+
+
+/* Doodle Stage */
+.owl {
+}
+
+#leftWing {
+  /* fill: orange; */
+  animation: lflap 0.5s infinite;
+  transform-origin: 20% 11%;
+  animation-delay: 0.8s;
+}
+
+#rightWing {
+  /* fill: orange; */
+  animation: rflap 0.5s infinite;
+  animation-delay: 0.8s;
+}
+.Google {
+  /*   opacity: 20%; */
+}
+
+.books {
+/*  opacity: 20%;  */
+}
+
